@@ -5,7 +5,7 @@
 
 ### 🌱 About Me
 
-- Currently building **backend and full-stack projects with Spring Boot, FastAPI, React, AWS**
+- Currently building **backend and full-stack projects with Spring Boot, FastAPI, React, AWS, lately been getting into agentic AI**
 - 📫 Reach me at **hassan.allyqureshi@gmail.com**
 
 ---
